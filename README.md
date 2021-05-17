@@ -1,4 +1,4 @@
-# CS32-Project-3
-This repository is in memory of the hard work I dedicated to during 2020-2021 winter quarter for CS32 Project 3 GhostRacer at UCLA.
+# Ghost-Racer
 
-Hope this would be a good place for retrospect.
+A program that displays a car-racing game. The ghost racer needs to save lost souls along the road 211 and demolish walking zombies and rampaging zombie cabs, with holy water...The journey never ends
+
